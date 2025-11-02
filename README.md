@@ -1,4 +1,4 @@
-# ☕ Lo-Fi Pomodoro Timer (HTML Version)
+# ☕ Lo-Fi Pomodoro Timer
 
 A clean and aesthetic **Pomodoro Timer Website** built entirely using **HTML, TailwindCSS (via CDN)**, and **vanilla JavaScript**. It’s designed for focus sessions with relaxing lo-fi beats, ambient background sounds, and a minimal interface — perfect for study or deep work.
 
